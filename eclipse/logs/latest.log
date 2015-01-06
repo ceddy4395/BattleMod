@@ -1,0 +1,124 @@
+[11:35:34] [main/INFO]: Setting user: Player140
+[11:35:35] [Client thread/INFO]: LWJGL Version: 2.9.1
+[11:35:36] [Client thread/ERROR]: Couldn't initialize twitch stream
+[11:35:40] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[11:35:40] [Sound Library Loader/INFO]: Sound engine started
+[11:35:43] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:35:43] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:35:43] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[11:35:43] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:35:43] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:35:44] [Sound Library Loader/INFO]: Sound engine started
+[11:36:12] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[11:36:12] [Server thread/INFO]: Generating keypair
+[11:36:12] [Server thread/INFO]: Converting map!
+[11:36:12] [Server thread/INFO]: Scanning folders...
+[11:36:12] [Server thread/INFO]: Total conversion count is 0
+[11:36:13] [Server thread/INFO]: Preparing start region for level 0
+[11:36:14] [Server thread/INFO]: Preparing spawn area: 8%
+[11:36:15] [Server thread/INFO]: Preparing spawn area: 13%
+[11:36:16] [Server thread/INFO]: Preparing spawn area: 17%
+[11:36:17] [Server thread/INFO]: Preparing spawn area: 23%
+[11:36:18] [Server thread/INFO]: Preparing spawn area: 28%
+[11:36:19] [Server thread/INFO]: Preparing spawn area: 33%
+[11:36:20] [Server thread/INFO]: Preparing spawn area: 39%
+[11:36:21] [Server thread/INFO]: Preparing spawn area: 45%
+[11:36:22] [Server thread/INFO]: Preparing spawn area: 50%
+[11:36:23] [Server thread/INFO]: Preparing spawn area: 55%
+[11:36:24] [Server thread/INFO]: Preparing spawn area: 63%
+[11:36:25] [Server thread/INFO]: Preparing spawn area: 71%
+[11:36:26] [Server thread/INFO]: Preparing spawn area: 78%
+[11:36:27] [Server thread/INFO]: Preparing spawn area: 86%
+[11:36:28] [Server thread/INFO]: Preparing spawn area: 93%
+[11:36:29] [Server thread/INFO]: Changing view distance to 8, from 10
+[11:36:30] [Server thread/INFO]: Player140[local:E:2c8fa52c] logged in with entity id 192 at (205.5, 78.0, 241.5)
+[11:36:30] [Server thread/INFO]: Player140 joined the game
+[11:36:35] [Server thread/INFO]: Player140 has just earned the achievement [Taking Inventory]
+[11:36:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5535ms behind, skipping 110 tick(s)
+[11:36:35] [Client thread/INFO]: [CHAT] Player140 has just earned the achievement [Taking Inventory]
+[11:36:36] [Client thread/INFO]: Warning: Clientside chunk ticking took 518 ms
+[11:36:36] [Client thread/INFO]: Warning: Clientside chunk ticking took 207 ms
+[11:36:39] [Client thread/INFO]: Warning: Clientside chunk ticking took 291 ms
+[11:36:40] [Client thread/INFO]: Warning: Clientside chunk ticking took 203 ms
+[11:36:40] [Client thread/INFO]: Warning: Clientside chunk ticking took 234 ms
+[11:36:40] [Client thread/INFO]: Warning: Clientside chunk ticking took 247 ms
+[11:36:41] [Client thread/INFO]: Warning: Clientside chunk ticking took 309 ms
+[11:36:42] [Client thread/INFO]: Warning: Clientside chunk ticking took 252 ms
+[11:36:43] [Client thread/INFO]: Warning: Clientside chunk ticking took 284 ms
+[11:36:45] [Client thread/INFO]: Warning: Clientside chunk ticking took 218 ms
+[11:36:45] [Client thread/INFO]: Warning: Clientside chunk ticking took 104 ms
+[11:36:47] [Client thread/INFO]: Warning: Clientside chunk ticking took 300 ms
+[11:36:47] [Client thread/INFO]: Warning: Clientside chunk ticking took 196 ms
+[11:36:47] [Client thread/INFO]: Warning: Clientside chunk ticking took 251 ms
+[11:36:50] [Client thread/INFO]: Warning: Clientside chunk ticking took 270 ms
+[11:36:51] [Client thread/INFO]: Warning: Clientside chunk ticking took 282 ms
+[11:36:52] [Client thread/INFO]: Warning: Clientside chunk ticking took 200 ms
+[11:36:52] [Client thread/INFO]: Warning: Clientside chunk ticking took 151 ms
+[11:36:53] [Client thread/INFO]: Warning: Clientside chunk ticking took 205 ms
+[11:36:54] [Client thread/INFO]: Warning: Clientside chunk ticking took 221 ms
+[11:36:54] [Client thread/INFO]: Warning: Clientside chunk ticking took 200 ms
+[11:36:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 241 ms
+[11:36:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 215 ms
+[11:36:56] [Client thread/INFO]: Warning: Clientside chunk ticking took 228 ms
+[11:36:58] [Client thread/INFO]: Warning: Clientside chunk ticking took 247 ms
+[11:36:59] [Client thread/INFO]: Warning: Clientside chunk ticking took 197 ms
+[11:36:59] [Client thread/INFO]: Warning: Clientside chunk ticking took 253 ms
+[11:37:00] [Client thread/INFO]: Warning: Clientside chunk ticking took 232 ms
+[11:37:02] [Client thread/INFO]: Warning: Clientside chunk ticking took 198 ms
+[11:37:03] [Client thread/INFO]: Warning: Clientside chunk ticking took 203 ms
+[11:37:04] [Client thread/INFO]: Warning: Clientside chunk ticking took 262 ms
+[11:37:05] [Client thread/INFO]: Warning: Clientside chunk ticking took 145 ms
+[11:37:05] [Client thread/INFO]: Warning: Clientside chunk ticking took 179 ms
+[11:37:06] [Client thread/INFO]: Warning: Clientside chunk ticking took 251 ms
+[11:37:08] [Client thread/INFO]: Warning: Clientside chunk ticking took 200 ms
+[11:37:10] [Client thread/INFO]: Warning: Clientside chunk ticking took 250 ms
+[11:37:14] [Server thread/INFO]: Saving and pausing game...
+[11:37:14] [Server thread/INFO]: Saving chunks for level 'test'/Overworld
+[11:37:14] [Server thread/INFO]: Saving chunks for level 'test'/Nether
+[11:37:14] [Server thread/INFO]: Saving chunks for level 'test'/The End
+[11:37:20] [Client thread/INFO]: Selecting effect minecraft:shaders/post/notch.json
+[11:37:21] [Client thread/INFO]: Selecting effect minecraft:shaders/post/fxaa.json
+[11:37:22] [Client thread/INFO]: Selecting effect minecraft:shaders/post/art.json
+[11:37:22] [Client thread/WARN]: Could not find uniform named LumaRamp in the specified shader program.
+[11:37:22] [Client thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[11:37:33] [Client thread/INFO]: Warning: Clientside chunk ticking took 227 ms
+[11:37:33] [Client thread/INFO]: Warning: Clientside chunk ticking took 129 ms
+[11:37:34] [Client thread/INFO]: Warning: Clientside chunk ticking took 208 ms
+[11:37:36] [Server thread/INFO]: Saving and pausing game...
+[11:37:36] [Server thread/INFO]: Saving chunks for level 'test'/Overworld
+[11:37:36] [Server thread/INFO]: Saving chunks for level 'test'/Nether
+[11:37:36] [Server thread/INFO]: Saving chunks for level 'test'/The End
+[11:37:38] [Client thread/INFO]: Selecting effect minecraft:shaders/post/bumpy.json
+[11:37:38] [Client thread/WARN]: Could not find uniform named OutSize in the specified shader program.
+[11:37:39] [Client thread/INFO]: Warning: Clientside chunk ticking took 167 ms
+[11:37:39] [Client thread/INFO]: Warning: Clientside chunk ticking took 264 ms
+[11:37:44] [Client thread/INFO]: Warning: Clientside chunk ticking took 605 ms
+[11:37:44] [Server thread/INFO]: Saving and pausing game...
+[11:37:44] [Server thread/INFO]: Saving chunks for level 'test'/Overworld
+[11:37:44] [Server thread/INFO]: Saving chunks for level 'test'/Nether
+[11:37:44] [Server thread/INFO]: Saving chunks for level 'test'/The End
+[11:37:47] [Client thread/INFO]: Selecting effect minecraft:shaders/post/blobs2.json
+[11:37:48] [Server thread/INFO]: Saving and pausing game...
+[11:37:48] [Server thread/INFO]: Saving chunks for level 'test'/Overworld
+[11:37:48] [Server thread/INFO]: Saving chunks for level 'test'/Nether
+[11:37:48] [Server thread/INFO]: Saving chunks for level 'test'/The End
+[11:37:49] [Client thread/INFO]: Selecting effect minecraft:shaders/post/pencil.json
+[11:37:50] [Server thread/INFO]: Saving and pausing game...
+[11:37:50] [Server thread/INFO]: Saving chunks for level 'test'/Overworld
+[11:37:50] [Server thread/INFO]: Saving chunks for level 'test'/Nether
+[11:37:50] [Server thread/INFO]: Saving chunks for level 'test'/The End
+[11:37:52] [Client thread/INFO]: Selecting effect minecraft:shaders/post/color_convolve.json
+[11:37:52] [Client thread/WARN]: Could not find uniform named InSize in the specified shader program.
+[11:38:00] [Client thread/INFO]: Warning: Clientside chunk ticking took 104 ms
+[11:38:02] [Client thread/INFO]: Warning: Clientside chunk ticking took 313 ms
+[11:38:02] [Server thread/INFO]: Saving and pausing game...
+[11:38:02] [Server thread/INFO]: Saving chunks for level 'test'/Overworld
+[11:38:02] [Server thread/INFO]: Saving chunks for level 'test'/Nether
+[11:38:02] [Server thread/INFO]: Saving chunks for level 'test'/The End
+[11:38:03] [Server thread/INFO]: Stopping server
+[11:38:03] [Server thread/INFO]: Saving players
+[11:38:03] [Server thread/INFO]: Saving worlds
+[11:38:03] [Server thread/INFO]: Saving chunks for level 'test'/Overworld
+[11:38:03] [Server thread/INFO]: Saving chunks for level 'test'/Nether
+[11:38:03] [Server thread/INFO]: Saving chunks for level 'test'/The End
+[11:38:05] [Client thread/INFO]: Stopping!
