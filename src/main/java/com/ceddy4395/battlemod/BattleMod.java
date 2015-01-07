@@ -1,5 +1,6 @@
 package com.ceddy4395.battlemod;
 
+import com.ceddy4395.battlemod.configuration.ConfigurationHandler;
 import com.ceddy4395.battlemod.proxy.IProxy;
 import com.ceddy4395.battlemod.reference.Reference;
 import cpw.mods.fml.common.Mod;
@@ -15,14 +16,13 @@ public class BattleMod {
     @Mod.Instance(Reference.MOD_ID)
     public static BattleMod instance;
 
-    @SidedProxy(clientSide = "com.ceddy4395.battlemod.proxy.ClientProxy", serverSide = "com.ceddy4395.battlemod.proxy.ServerProxy")
+    @SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.SERVER_PROXY_CLASS)
     public static IProxy proxy;
 
     @Mod.EventHandler
     public void PreInit(FMLPreInitializationEvent event)
     {
-
-
+        ConfigurationHandler.init(event.getSuggestedConfigurationFile());
     }
 
     @Mod.EventHandler
